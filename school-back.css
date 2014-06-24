@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header{
+	height: 80px;
+	background:#4CBBFB;
+	margin-bottom:10px;
+}
+		
+body{
+	background-color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:left;
+	margin-left: none;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+#main_menu {
+	float: left;
+	width: 12%;
+	height:auto;
+	background: #FFF;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#help_menu {
+	float: right;
+	width: 12%;
+	height:auto;
+	background: #FFF;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#extras {
+	float: left;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	border-left: 3px solid #961917;
+	border-bottom: 3px solid #961917;
+	border-bottom-left-radius: 20px;
+	padding-left: 15px;
+	padding-top: 15px;
+	width: 60%;
+	height:auto;
+	background:#FFF;
+}
+
+footer{
+	clear: both;
+	background: #1984FC;
+	height: 50px;
+}
